@@ -1,4 +1,4 @@
-<img src="/pawlean/pawlean-header.png" alt="Pawlean"/>
+<img src="/pawlean/pawlean/pawlean-header.png" alt="Pawlean"/>
 
 <!--
 **pawlean/pawlean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
