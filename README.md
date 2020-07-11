@@ -1,9 +1,4 @@
-<img src="https://raw.githubusercontent.com/pawlean/pawlean/master/pawlean-header.png" alt="Pawlean" />
-<style>
-img {
-    border-radius: 50%;
-}
-</style>
+<img src="https://raw.githubusercontent.com/pawlean/pawlean/master/pawlean-header.png" alt="Pawlean" style="border-radius:50%" />
 
 <!--
 **pawlean/pawlean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
