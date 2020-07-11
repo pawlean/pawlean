@@ -1,6 +1,9 @@
-<img src="https://raw.githubusercontent.com/pawlean/pawlean/master/pawlean-header.png" alt="Pawlean"/>
-
-<!--
+<img src="https://raw.githubusercontent.com/pawlean/pawlean/master/pawlean-header.png" alt="Pawlean" />
+<style>
+img {
+    border-radius: 50%;
+}
+</style><!--
 **pawlean/pawlean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pawlean&show_icons=true)
