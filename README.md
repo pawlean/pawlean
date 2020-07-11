@@ -8,6 +8,8 @@
 - 📝 Old-school blogger on [pawlean.com](https://pawlean.com/)
 - 🎤 Speaker on my tech journey, communities, self-care and more!
 
+I like to build stuff in my free time, but totally prefer off-screen time with my plants. 🍃
+
 # 💌 Get in touch
 
 - 🐦 @ me on [@paulienuh](https://twitter.com/paulienuh)
