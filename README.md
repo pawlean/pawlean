@@ -14,4 +14,4 @@ I like to build stuff in my free time, but totally prefer off-screen time with m
 
 - 🐦 @ me on [@paulienuh](https://twitter.com/paulienuh)
 - 📸 IG [@pawlean](https://instagram.com/pawlean)
-- 💜 [I spent way too long on my personal site for you not to visit it.](https://paulinenarvas.com)
+- 💜 [I spent way too long on my personal site for you not to visit it](https://paulinenarvas.com)
