@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pawlean/pawlean/master/pawlean-header.png" alt="Pawlean"  />
+<img src="https://pawlean.s3.eu-west-2.amazonaws.com/OpenGraphPic2020.png" alt="Pawlean"  />
 
 # 👋🏻 Hi there! I'm Pauline, I'm a...
 
