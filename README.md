@@ -1,5 +1,3 @@
-<img src="https://pawlean.s3.eu-west-2.amazonaws.com/OpenGraphPic2020.png" alt="Pawlean"  />
-
 # 👋🏻 Hi there! I'm Pauline, I'm a...
 
 - 💻 Self-taught developer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344)
@@ -9,6 +7,8 @@
 - 🎤 Speaker on my tech journey, communities, self-care and more!
 
 I like to build stuff in my free time, but totally prefer off-screen time with my plants 🍃 or trying to beat another personal best with [#pawgainz](https://twitter.com/hashtag/pawgainz) 💪🏼
+
+<img src="https://pawlean.s3.eu-west-2.amazonaws.com/OpenGraphPic2020.png" alt="Pawlean"  />
 
 # 💌 Get in touch
 
