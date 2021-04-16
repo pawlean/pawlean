@@ -4,7 +4,7 @@
 - 📊 9-5 DevOps Engineer
 - ☁️ AWS Community Builder
 - 🎓 Biomedical Sciences graduate
-- 📝 Old-school blogger on [pawlean.com](https://pawlean.com/)
+- 📝 OG blogger on [pawlean.com](https://pawlean.com/)
 - 🎤 Speaker on my tech journey, communities, self-care and more!
 
 I like to build stuff in my free time, but totally prefer off-screen time with my plants 🍃 or trying to beat another personal best with [#pawgainz](https://twitter.com/hashtag/pawgainz) 💪🏼
