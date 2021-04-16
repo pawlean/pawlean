@@ -14,7 +14,7 @@ Kubernetes, AWS, Terraform, Chef, Docker, HTML, CSS, Javascript, Nextjs, React
 
 # 💌 Get in touch
 
-- 🐦 @ me on [@paulienuh](https://twitter.com/paulienuh)
+- 🐦 Tweet me at [@paulienuh](https://twitter.com/paulienuh)
 - 📸 IG [@pawlean](https://instagram.com/pawlean)
 - 💜 [I spent way too long on my personal site for you not to visit it](https://paulinenarvas.com)
 
