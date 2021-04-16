@@ -10,16 +10,7 @@
 I like to build stuff in my free time, but totally prefer off-screen time with my plants 🍃 or trying to beat another personal best with [#pawgainz](https://twitter.com/hashtag/pawgainz) 💪🏼
 
 # 🧰 Tech Tool Box
-- Kubernetes
-- AWS
-- Terraform
-- Chef
-- Docker
-- HTML
-- CSS
-- Javascript
-- Nextjs
-- React
+Kubernetes, AWS, Terraform, Chef, Docker, HTML, CSS, Javascript, Nextjs, React
 
 # 💌 Get in touch
 
