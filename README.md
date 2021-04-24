@@ -2,7 +2,7 @@
 
 - 💻 Self-taught developer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344)
 - 📊 9-5 DevOps Engineer
-- 🙌🏻 Love communities - ☁️ AWS Community Builder, 💜 [Ladies in DevOps](ladiesindevops.com/) Community Founder, [Code First: girls](codefirstgirls.org.uk) Instructor, Mentor, general hype-woman.
+- 🙌🏻 Community Builder. I love communities. ☁️ AWS Community Builder, 💜 [Ladies in DevOps](ladiesindevops.com/) Community Founder, [Code First: Girls](codefirstgirls.org.uk) Instructor, mentor, general hype-woman.
 - 🎓 Biomedical Sciences graduate
 - 📝 OG blogger on [pawlean.com](https://pawlean.com/)
 - 🎤 Speaker on my tech journey, communities, self-care and more!
