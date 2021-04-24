@@ -18,7 +18,7 @@ Kubernetes, AWS, Terraform, Chef, Docker, HTML, CSS, Javascript, Nextjs, React
 - 📸 Instagram: [@pawlean](https://instagram.com/pawlean)
 - 📝 Blog: ["a blog by Pawlean"](https://pawlean.com/)
 - 🎙 Podcast: ["a podcast by Pawlean"](https://pawlean.com/podcast)
-- 📽 YouTube: ["YouTube Channel"](https://pawlean.com/youtube)
+- 📽 YouTube: ["videos by Pawlean"](https://pawlean.com/youtube)
 - 💜 Portfolio: [I spent way too long on my personal site for you not to visit it...](https://paulinenarvas.com)
 
 <img src="https://pawlean.s3.eu-west-2.amazonaws.com/OpenGraphPic2020.png" alt="Pawlean"  />
