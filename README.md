@@ -16,6 +16,12 @@
 <a href="https://instagram.com/paw.lean"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/pnarvas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://pawlean.com/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://podcasts.apple.com/gb/podcast/a-podcast-by-pawlean/id1526941283"><img src="https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white"></a>
 
 
 🖍 [Latest posts, creations and projects!](https://linktr.ee/pawlean) | 💜 Portfolio: [I spent way too long on my personal site for you not to visit it...](https://paulinenarvas.com)
+
+___
+
+
+<a href="https://www.buymeacoffee.com/pawlean"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
