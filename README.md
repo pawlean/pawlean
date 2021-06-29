@@ -1,10 +1,10 @@
 # 👋🏼 Hi there! I'm Pauline, I'm a...
 
-- Community-taught Engineer, formerly Biomedical Sciences Graduate
-- Community Builder - [Ladies in DevOps](ladiesindevops.com/), [Code First: Girls](codefirstgirls.org.uk), [AWS Community Builder](https://dev.to/aws-builders)
-- Blogger - I've been sharing life in pixels on [pawlean.com](https://pawlean.com/) since 2008
-- Speaker on my tech journey, communities, self-care and more!
-- Weight-lifter, yogi, plant-lover, explorer ✨
+- **Community-taught Engineer**, formerly Biomedical Sciences Graduate
+- **Community Builder** - [Ladies in DevOps](ladiesindevops.com/), [Code First: Girls](codefirstgirls.org.uk), [AWS Community Builder](https://dev.to/aws-builders)
+- **Blogger** - I've been sharing life in pixels on [pawlean.com](https://pawlean.com/) since 2008
+- **Speaker** on my tech journey, communities, self-care and more!
+- **Weight-lifter, yogi, plant-lover, explorer** ✨
 
 <img src="Pawlean.gif" />
 
@@ -21,9 +21,9 @@
 <a href="https://podcasts.apple.com/gb/podcast/a-podcast-by-pawlean/id1526941283"><img src="https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white"></a>
 
 
-🖍 [Latest posts, creations and projects!](https://linktr.ee/pawlean) | 💜 Portfolio: [I spent way too long on my personal site for you not to visit it...](https://paulinenarvas.com)
+⚡️ [Check out my latest posts, creations and projects!](https://linktr.ee/pawlean)
 
-___
+💜 Portfolio: [I spent way too long on my personal site for you not to visit it...!](https://paulinenarvas.com)
 
 
 <a href="https://www.buymeacoffee.com/pawlean"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
