@@ -1,6 +1,6 @@
 # 👋🏻 Hi there! I'm Pauline, I'm a...
 
-- 💻 Community-taught Engineer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344) and 🎓 Biomedical Sciences graduate
+- 💻 Community-taught Engineer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344), formerly 🎓 Biomedical Sciences graduate
 - 🙌🏻 Community Builder. I love communities. 💜 [Ladies in DevOps](ladiesindevops.com/) Community Founder, [Code First: Girls](codefirstgirls.org.uk) Ambassador, ☁️ AWS Community Builder
 - 📝 OG Blogger. Sharing my life in pixels since 2008 on [pawlean.com](https://pawlean.com/)
 - 🎤 Speaker on my tech journey, communities, self-care and more!
