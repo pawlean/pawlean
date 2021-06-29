@@ -1,14 +1,13 @@
 # 👋🏻 Hi there! I'm Pauline, I'm a...
 
-- 💻 Community-taught Engineer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344)
-- 🙌🏻 Community Builder. I love communities. ☁️ AWS Community Builder, 💜 [Ladies in DevOps](ladiesindevops.com/) Community Founder, [Code First: Girls](codefirstgirls.org.uk) Instructor, mentor, general hype-woman (#ShefCodeFirst, #LeedsCFG, #furtHER, #CFGfellowship)
-- 🎓 Biomedical Sciences graduate
+- 💻 Community-taught Engineer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344) and 🎓 Biomedical Sciences graduate
+- 🙌🏻 Community Builder. I love communities. 💜 [Ladies in DevOps](ladiesindevops.com/) Community Founder, [Code First: Girls](codefirstgirls.org.uk) Ambassador, ☁️ AWS Community Builder
 - 📝 OG Blogger. Sharing my life in pixels since 2008 on [pawlean.com](https://pawlean.com/)
 - 🎤 Speaker on my tech journey, communities, self-care and more!
 - 🌳 Tech isn't everything and although I like to build stuff in my free time, I totally prefer off-screen time with my plants, being outdoors or trying to beat another personal best with [#pawgainz](https://twitter.com/hashtag/pawgainz) 💪🏼
 
 # 🧰 Tech Tool Box
-Kubernetes, AWS, Terraform, Chef, Docker, HTML, CSS, Javascript, Nextjs, React
+AWS, Terraform, Docker, Kubernetes, HTML, CSS, Javascript, React, Nextjs
 
 # 💌 Get in touch
 - 🖍 LinkTree: [PAWLEAN](https://linktr.ee/pawlean)
