@@ -1,7 +1,6 @@
 # 👋🏻 Hi there! I'm Pauline, I'm a...
 
-- 💻 Self-taught developer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344)
-- 📊 9-5 DevOps Engineer
+- 💻 Community-taught Engineer [which all began with High School Musical](https://www.yorkshirepost.co.uk/news/people/from-high-school-musical-fansites-to-ee-developer-how-pauline-overcame-school-bullies-to-inspire-women-in-technology-1-9960344)
 - 🙌🏻 Community Builder. I love communities. ☁️ AWS Community Builder, 💜 [Ladies in DevOps](ladiesindevops.com/) Community Founder, [Code First: Girls](codefirstgirls.org.uk) Instructor, mentor, general hype-woman (#ShefCodeFirst, #LeedsCFG, #furtHER, #CFGfellowship)
 - 🎓 Biomedical Sciences graduate
 - 📝 OG Blogger. Sharing my life in pixels since 2008 on [pawlean.com](https://pawlean.com/)
@@ -12,7 +11,7 @@
 Kubernetes, AWS, Terraform, Chef, Docker, HTML, CSS, Javascript, Nextjs, React
 
 # 💌 Get in touch
-
+- 🖍 LinkTree: [PAWLEAN](https://linktr.ee/pawlean)
 - 🐦 Twitter: [@paulienuh](https://twitter.com/paulienuh)
 - 📸 Instagram: [@pawlean](https://instagram.com/pawlean)
 - 📝 Blog: ["a blog by Pawlean"](https://pawlean.com/)
