@@ -10,7 +10,7 @@
 AWS, Terraform, Docker, Kubernetes, HTML, CSS, Javascript, React, Nextjs
 
 # 💌 Get in touch
-- 🖍 LinkTree: [PAWLEAN](https://linktr.ee/pawlean)
+- 🖍 LinkTree: [Latest posts, creations and projects!](https://linktr.ee/pawlean)
 - 🐦 Twitter: [@paulienuh](https://twitter.com/paulienuh)
 - 📸 Instagram: [@pawlean](https://instagram.com/pawlean)
 - 📝 Blog: ["a blog by Pawlean"](https://pawlean.com/)
