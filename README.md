@@ -1,6 +1,6 @@
 # 👋🏼 Hi there! I'm Pauline, I'm a...
 
-- **Community-taught Engineer**, formerly Biomedical Sciences Graduate
+- **Snr. Community Engineer** at Gitpod, formerly DevOps Engineer, SRE, Digital Engineering Grad, Biomedical Sciences Graduate
 - **Community Builder** - [Ladies in DevOps](ladiesindevops.com/), [Code First: Girls](codefirstgirls.org.uk), [AWS Community Builder](https://dev.to/aws-builders)
 - **Blogger** - I've been sharing life in pixels on [pawlean.com](https://pawlean.com/) since 2008
 - **Speaker** on my tech journey, communities, self-care and more!
